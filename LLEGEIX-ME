@@ -1,0 +1,20 @@
+1- a) git branch  branca00
+b) git checkout branca00
+c)git status
+
+5- git checkout main 
+git status
+git log
+
+6- No, no es pot veure l'última linea afegida perque he estat treballant desde la branca00 i ara que estic a la main, no està fusionat i per tant no puc veure l'última linea.
+
+7- git checkout branca00
+Si em deixa veure-ho perquè és la branca en la que he estat treballant.
+
+10-b) git merge branca00 main
+
+12- a) git push origin main
+c) Perquè hem fet un merge, llavors es guarda.
+
+14- a) git push -u origin branca01
+c) Està a un commit de distància.
